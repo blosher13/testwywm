@@ -1,4 +1,4 @@
-LogId,UserId,OrgUnitId,CourseID,Action,EnrollmentType,Enrollment Date
+LogId,UserId,OrgUnitId,CourseID,Action,EnrollmentType,EnrollmentDate
 1001,7,1112,62,Enrollment,1,2021-01-06 23:42
 2001,7,1112,62,Withdrawal,2,2021-01-06 23:42
 1002,8,1116,61,Enrollment,1,2020-12-20 6:00
